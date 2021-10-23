@@ -9,5 +9,7 @@ int main() {
 	cout << endl;
 	cout << "Dang o nhanh 1";
 	cout << endl;
+	cout << "Dang o nhanh 2";
+	cout << endl;
 	return 0;
 }
